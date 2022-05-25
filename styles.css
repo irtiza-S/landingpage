@@ -1,0 +1,45 @@
+/* css reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Roboto;
+}
+
+
+
+header, footer {
+    background-color: #1f2937;
+
+}
+
+header {
+    color: #f9faf8;
+
+}
+
+.random-info-container {
+    background-color: #f9faf8;
+    
+}
+
+.random-info-container h2 {
+    color: #1f2937;
+    font-size: 36px;
+    font-weight:bolder;
+}
+
+.quote-container {
+    background-color: #e5e7eb;
+
+}
+
+.quote-container .quote {
+    color: #1f2937;
+    font-style:italic;
+    font-size: 36px;
+}
+
