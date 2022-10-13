@@ -8,10 +8,7 @@
 :root {
     font-size: 1rem;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-<<<<<<< HEAD
     scroll-behavior: smooth;
-=======
->>>>>>> 725edc1f06f5c391c35c9a3b1255a619ad735d92
 
 }
 
@@ -55,7 +52,6 @@ header {
     justify-content: space-between;
     /* border: 2px solid white; */
     align-items: center;
-<<<<<<< HEAD
     width: 100%;
     position: fixed;
     top: 0;
@@ -79,9 +75,8 @@ header {
 
 .nav .logo, .nav .nav-links {
     /* border: 1px solid white; */
-=======
     width: 80%;
->>>>>>> 725edc1f06f5c391c35c9a3b1255a619ad735d92
+
 }
 
 .logo, ul.nav-links {
@@ -95,26 +90,21 @@ ul.nav-links li a:hover {
 }
 
 .logo {
-<<<<<<< HEAD
     font-size: 2rem;
-=======
     font-size: 1.5rem;
->>>>>>> 725edc1f06f5c391c35c9a3b1255a619ad735d92
     font-weight: bold;
 }
 
 .nav-links {
     display: flex;
-<<<<<<< HEAD
     flex: 0.15;
     gap: 10px;
     justify-content: space-between;
     align-items: center;
     font-size: 1.25rem;
-=======
     gap: 10px;
     font-size: 1.12rem;
->>>>>>> 725edc1f06f5c391c35c9a3b1255a619ad735d92
+
 }
 
 
@@ -150,11 +140,6 @@ ul.nav-links li a:hover {
     /* border: 1px solid white; */
     display: flex;
     align-items: center;
-<<<<<<< HEAD
-    margin-top: 15px;
-=======
->>>>>>> 725edc1f06f5c391c35c9a3b1255a619ad735d92
-
 }
 
 .info-container { 
@@ -419,29 +404,8 @@ footer {
 }
 
 
-<<<<<<< HEAD
 .logo-link { 
     color: white;
 }
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
->>>>>>> 725edc1f06f5c391c35c9a3b1255a619ad735d92
 
 
